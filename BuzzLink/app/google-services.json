@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "188071802852",
+    "project_id": "buzzlink-chat-application",
+    "storage_bucket": "buzzlink-chat-application.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:188071802852:android:e51a76c4630602028439f1",
+        "android_client_info": {
+          "package_name": "com.piyush.a02_buzzlink_chat_application"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6HRdHOf38-5dIqTOX5lkQqCkJUBTrEmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

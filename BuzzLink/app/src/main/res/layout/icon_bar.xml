@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/black"
+    android:gravity="center"
+    android:orientation="horizontal"
+    android:padding="16dp">
+
+    <ImageView
+        android:id="@+id/camBut"
+        android:layout_width="47dp"
+        android:layout_height="38dp"
+        android:layout_marginEnd="32dp"
+        android:src="@drawable/camera"
+        android:contentDescription="Camera Button" />
+
+    <ImageView
+        android:id="@+id/chatBut"
+        android:layout_width="47dp"
+        android:layout_height="38dp"
+        android:layout_marginEnd="32dp"
+        android:src="@drawable/chat"
+        android:contentDescription="Chat Button" />
+
+    <ImageView
+        android:id="@+id/settingBut"
+        android:layout_width="47dp"
+        android:layout_height="38dp"
+        android:src="@drawable/sett"
+        android:contentDescription="Settings Button" />
+</LinearLayout>
